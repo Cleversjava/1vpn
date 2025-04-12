@@ -1,0 +1,1 @@
+1 vpn is a very useful vpn. Although it costs money, there are 2 free nodes that can be connected. To use this, you only need a chrome browser, but after acceleration, it can only be used in chrome, not in other browsers. If you accelerate, then other browsers cannot be used unless you add an extension in that browser.
